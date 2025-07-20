@@ -84,8 +84,8 @@ cryptographer/
 1. Install Flutter: https://flutter.dev/docs/get-started/install
 2. Clone the repository:
    ```sh
-   git clone https://github.com/PulkitGahlot/CODECRAFT_CS_02.git
-   cd CODECRAFT_CS_02
+   git clone https://github.com/PulkitGahlot/CODECRAFT_CS_03.git
+   cd CODECRAFT_CS_03
    ```
 3. Install packages:
    ```sh
